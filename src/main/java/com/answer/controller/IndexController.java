@@ -12,23 +12,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
  */
 @Controller
 public class IndexController {
-    @Autowired
-    private ValueAnnotateService valueAnnotateService;
 
-    @RequestMapping("/index")
+    @RequestMapping("/hello")
     @ResponseBody
-    public String index(){
-        valueAnnotateService.systemValue();
-        return "2";
+    public String index(String name){
+        return "hello"+name;
     }
 
-    @RequestMapping("/")
-    public String indexPage(){
-        return "index";
-    }
-
-    @RequestMapping("/indexDB")
-    public String indexDBPage(){
-        return "indexDB";
-    }
 }
