@@ -1,0 +1,70 @@
+                    ##
+                   ,####.              ##
+                   #iiii##             ####
+                   #iiiiit#            #t#i#f
+                  #jiiii#it#. # #     #;ii#t##
+                  #iiiiii,it# ####### #iiii#t##
+                  #iiiiii#ii;##t#itti##iiiijtt#
+                  #iiiiiii,jiittittiii#iiiiiiti#
+                  #iiiiii#itiitiitiiii#iiiii#tt##
+                  #iiiiiWiiiiititiiiii#iiiii#itt#
+                  #iiiiiiiiiiiiitiiiii;iiiii#ittW#
+                  #iiii#iiiiiiiiiiiiiiiWiiiiWittt#
+                  #it#iii#iiiii;iiii#iiiiiiiEittt#
+                  #jiiiiiiiiiiiiiiiii#iiWiiiKittt#
+                   #ii##tiiiiiiiiiiiiiiii#ii#ittt#.
+                  jK#    .iiii#    #iiiiiitt#itttf#
+                  #j      .ii      .;iiiiiii#itttj#
+           ##    ##       .#        .Diiiiiii#tttEf
+           ######L#   ifG  #      .  .#iiiiiitttt##.
+            #iiiiiL   fGK#      ifGE .#iiiiiiittt#t###f##
+            #iiiii#    ##.      fGE# . iiiiiiitttttttiEt#
+            ##iiiii             #K## .,iiiiiiiitttttttt#L
+            #t#iiii#     .##     ##  .#iiiiiiiitttttttt#
+            #tttiiii#:   #i;        ..iiiiiiiitttttttj#
+            #jiiiiiiiiiD##Di#        #iiiiitiittjjjjj##
+             #iiiiiiiiii,;i#i#    . fiiiiiiijjjjjjjjfj#
+             #iiiiiiiii#iiiiiiii##;iiiiiiiittttjj#tttt#
+              #iiiiiiiii##Eiiiiiiiiiiiiiiiiittttttttt#
+              #ittiiiiiiiiiiiiiiiiiiiiiiiiiiitttttttt#  #######
+              ##iiiiiiiiiiiiiiiiiWiiiiiiiittitttttjj#K##;..#E###
+              #iiiiiiifiiiiiiiiiiiiiiiiiiiiitjjjjjj###;   ..f.#
+               #iiiiiiifWiiiii#iiiiiiiiiiiiitttjjj###     ...##
+               #iiiiiiiWt####;iiiiiiiiiiiiitttttt####      ...##
+                #iiiiiiiiiiiiiiiiiiiiiittttttttG## #       ....#
+                 #iiiiii#iiiiiiiiiiiiiiitttttt###  #       ...##
+                  ##;iiiiiiiiiiiitiiiiiitttttt##   #       ..##
+                    #####iiiiiiitttttttttttt;#L    ##     .E#i
+                        #Wiiii##t#Ettttttti##       #i. . t#
+                         ####iWiii#WW######         #iiitjj#
+                           #W###WWWWWt##            #iiijjj#
+                           ##W#WWWK#ttt##           #iiittt#
+                            #####;tttttj##          #iitjjj#
+                           #Dt##;iittttjjG#         #Wiittt#.
+                           #i#;#iiiiitjjjtt#         #iitttf#
+                          #t#..#Kiiiiijjttjj#        #iiijj##
+                          ##::::iiiiiittttjjt#,      ##iiitj##
+                          #K.::.#iiiittiitjjtt##      #iittjj#
+                          #i####iiiiitiiiijtttj##     t#iiittt#
+                          #iiiiiiiiiiiiiitttttjj##     #Wiitjj##
+                          #iiiiifiiiiiiiitiitjjtt##     #;iittt#
+                          #iiiiiiiiiiiiiiiiitjjtttf#     #iitjj#
+                          #iiiiiiiiiiiiiiiiiijtttjjt#     #iittE#
+                          #iiiiittiiiiiiiiiititttjttt#.   #iijjj#
+                          #Wiiiittttiiiiiiiiii###ttttj##   #ittt#
+                           #iiiiiiiiiiiiiiii#iiitttttjj##  #ijtt#
+                           #;iiitttttiifiiifiiiiiittjjttW# #itjj#
+                          .##iitiiiiiii#tiiEiiiiiiitjjttt##Kittt#
+                          #tt#tt#iiiiittttiiiiiiiiiijtttjj#ittjG#
+                          #tiittDtttiittttt;iiiiiiittttjjj#ittt#
+                          #tttDttiiiiittttt#iiiiiiiiitjjjt#tttt#
+                         j#tiit#ttttttttttttiiiiiiiiijjttt#ttt##
+                      ###jW#Li###ttiittttttt#G###iiiittttt#ttt#
+                     #     #        ttttttt#.     jGttttttttt#;
+                    #     #          .tttt;          tttt#tt##
+                   #W                 .#t#           ..#jtti#
+                   #     # .   #      . t #  t       ...#t##
+                   # # D # #          .:D            ...:##
+                   # #   # #          ..#            ... #
+                   L#.         #    ....# #  #      ....#
+                    #####################################
