@@ -21,7 +21,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 //开启切面
 @EnableAspectJAutoProxy
 //开启nacos
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 public class RunApplication implements ApplicationRunner {
     private static final Logger log=LoggerFactory.getLogger(RunApplication.class);
 
